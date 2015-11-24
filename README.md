@@ -33,5 +33,7 @@ https://github.com/ele828/react-native-guide
 
 Ready-to-use chat interface for iOS and Android React-Native apps https://github.com/FaridSafi/react-native-gifted-messenger
 
+WeChat UI https://github.com/weui/weui
+
 ## QRCode
 Cross-browser QRCode generator for javascript https://github.com/davidshimjs/qrcodejs
