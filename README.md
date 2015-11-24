@@ -36,4 +36,9 @@ Ready-to-use chat interface for iOS and Android React-Native apps https://github
 WeChat UI https://github.com/weui/weui
 
 ## QRCode
+
 Cross-browser QRCode generator for javascript https://github.com/davidshimjs/qrcodejs
+
+## PM
+
+The open-source Trello-like kanban https://github.com/wekan/wekan
