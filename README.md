@@ -36,7 +36,9 @@ Ready-to-use chat interface for iOS and Android React-Native apps https://github
 
 WeChat UI https://github.com/weui/weui
 
-## QRCode
+## Presentation
+
+Reveal.js Template https://github.com/jeffsheets/BuzzworthyJava2015
 
 Cross-browser QRCode generator for javascript https://github.com/davidshimjs/qrcodejs
 
