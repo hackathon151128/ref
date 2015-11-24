@@ -26,6 +26,7 @@ Streaming torrent client for node & the browser  https://github.com/feross/webto
 
 A canvas based drawing app that you can integrate easily on your website https://github.com/Leimi/drawingboard.js
 
+https://github.com/qidafang/whiteboard_by_socket_io
 
 ## React-Native
 
