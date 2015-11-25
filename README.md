@@ -1,16 +1,13 @@
 # ref
 
 ## Protype
-
 http://codeshare.io/
-
 
 ## Code Editor
 
 CodeMirror https://github.com/codemirror/CodeMirror
 
 ACE Syntax Highlighter (tokenizer.js) https://github.com/ajaxorg/ace
-
 
 ## WebRTC
 
