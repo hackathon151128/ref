@@ -1,21 +1,14 @@
-# ref
-
 ## Protype
 http://codeshare.io/
 
 ## Code Editor
-
 CodeMirror https://github.com/codemirror/CodeMirror
-
 ACE Syntax Highlighter (tokenizer.js) https://github.com/ajaxorg/ace
 
 ## WebRTC
-
-Simplest WebRTC ever https://github.com/andyet/SimpleWebRTC
-
-WebRTC-Experiment https://github.com/muaz-khan/WebRTC-Experiment
-
-Streaming torrent client for node & the browser  https://github.com/feross/webtorrent#webtorrent-in-production
+* Simplest WebRTC ever https://github.com/andyet/SimpleWebRTC
+* WebRTC-Experiment https://github.com/muaz-khan/WebRTC-Experiment
+* Streaming torrent client for node & the browser  https://github.com/feross/webtorrent#webtorrent-in-production
 
 
 ## Whiteboard
